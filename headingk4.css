@@ -1,0 +1,39 @@
+.nameheading{
+    font-family: 'Anton', sans-serif;
+   /* font-size: 50px; */
+  /* border: 2px solid red; */
+  padding-right: 5px;
+  margin-top: 10px;
+  
+}
+#h1{
+    /* width: 45px; */
+    /* padding-left: 10px;
+    padding-right: 10px; */
+    color: orangered;
+}
+   #h2{
+    /* margin-right: 85px; */
+    /* border: 2px solid red; */
+    color: orangered;
+}
+#h3{
+    color: blue;
+}
+#h4{
+    color: green;
+    /* font-size: 35px; */
+    padding-right: 0px;
+}
+.governmentlogo{
+    float: right;
+    margin-top: 0px;
+    
+}
+.name{
+    color: indigo;
+
+}
+/* .heading{
+    background-color:rgb(240, 240, 163) ;
+} */
