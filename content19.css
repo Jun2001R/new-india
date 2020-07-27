@@ -1,0 +1,22 @@
+#content19{
+    
+    padding-left: 10px;
+    height: 100%;
+    width: 100%;
+    border: 2px solid black;
+    font-size: 20px;
+    background-color: rgb(187, 236, 187);
+    
+}
+.survey{
+    /* width: 40%; */
+    /* height: 60px; */
+    /* font-size: 20px; */
+    margin-top: 20px;
+    background-color:rgb(123, 123, 219);
+   border-radius: 20px;
+   color: black;
+  
+    /* font-size: 100%; */
+  } 
+   

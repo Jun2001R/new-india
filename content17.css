@@ -1,0 +1,44 @@
+#img17{
+    /* width: 40%;
+    height: 200px; */
+    /* margin-right: 4px;
+    margin-left: 4px;
+    margin-top: 4px; */
+    /* margin-left: 30%; */
+   
+    /* margin-left: 10%;
+    margin-right: 10%; */
+   border: 4px solid blue;
+}
+#introheading17{
+    font-size: 50px;
+    color: purple;
+    border: 2px solid red;
+    text-align: center;
+    background-color: rgb(238, 238, 171);
+}
+#introcontent17{
+    margin-top: 30px;
+    width: 100%;
+    height:100%;
+    border: 2px solid black;
+    /* background-color: rgb(231, 231, 170); */
+    padding-left: 10px;
+}
+.survey{
+    /* width: 40%; */
+    /* height: 60px; */
+    /* font-size: 20px; */
+    margin-top: 20px;
+    background-color:rgb(123, 123, 219);
+   border-radius: 20px;
+   color: black;
+  
+    /* font-size: 100%; */
+  } 
+   
+/* .imgmodi17{
+    width: 40%;
+    height: 300px;
+  
+} */

@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link href="https://fonts.googleapis.com/css2?family=Anton&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="media16.css">
+    <link rel="stylesheet" href="heading16.css">
+    <link rel="stylesheet" href="content16.css">
+    <link rel="stylesheet" href="bootstrap.min.css">
+    <style>
+        #submitted:hover{
+          color: white;
+          background-color: green;
+        }
+        #reset:hover{
+            color: white;
+            background-color: red;
+        }
+    </style>
+</head>
+<body>
+    <div class="container-fluid">
+        <div id="header" class="heading">
+            <div id="logo" class="governmentlogo"><img style="margin-top: 5px;margin-left: 2px;border: 2px solid red;" src="Prime_Minister_of_India_Narendra_Modi.jpg" alt="India"></div>
+       <span id="h1"class="nameheading">The</span>
+         <span id="h2"class="nameheading">GREAT</span>
+            <span id="h3"class="nameheading">PRIME</span>
+                <span id="h4"class="nameheading">MINISTER
+           </span>
+           <div class="name">- Mr.Narendra Damodar Das Modi</div>
+        </div>
+        <div id="content16"class="classcontent16">
+            <div id="surveyform" class="modisurvey">
+                <h1 class="surveyheading" style="text-align: center;font-size: 40px;">
+                    Form for survey
+                </h1>
+                <form action="shiva.html" style="font-size: larger;text-align: center;">
+                    <div>
+                    <label for="name">Name</label>
+                    <input style="font-size:larger;" type="text" name="myname" id="name">
+                    </div><br>
+                    <div>
+                    <label for="age">Age</label>
+                    <input style="font-size: larger;" type="number" age="myage" id="age">
+                </div><br>
+                <div>
+                     <label for="date of birth">Date of birth</label>
+                    <input style="font-size: larger;" type="date" date="mydateofbirth" id="date of birth">
+                </div><br>
+                <div>
+                    Gender: &nbsp;&nbsp;  <label for="male">male</label>
+                      <input style="font-size: larger;" type="radio" name="mygender"id="male">
+                    <label for="female">Female</label>
+                    <input style="font-size: larger;" type="radio" name="mygender"id="female">
+                    <label for="other">other</label>
+                    <input style="font-size: larger;" type="radio"name="mygender"id="other">
+                </div><br>
+                <div>
+                <label for="gmail">Email</label>
+                <input style="font-size: larger;" type="email"name="myemail"id="gmail">
+                </div><br>
+                <div><label for="state">state</label>
+                    <select style="font-size: large;"name="mystate" id="state">
+                        <option value="select">select state</option>
+                        <option value="Assam">Assam</option>
+                        <option value="Arunachal Pradesh">Arunachal Pradesh</option>
+                        <option value="Andhra Pradesh">Andhra Pradesh</option>
+                        <option value="Andaman and Nicobar island">Andaman and Nicobar island</option>
+                        <option value="Bihar">Bihar</option>
+                        <option value="Chattisgarh">Chattisgarh</option>
+                        <option value="Chandigarh">Chandigarh</option>
+                        <option value="Dadar and Nagar Haweli">Dadar and Nagar Haweli</option>
+                        <option value="Delhi">Delhi</option>
+                        <option value="Goa">Goa</option>
+                        <option value="Gujrat">Gujrat</option>
+                        <option value="Haryana">Haryana</option>
+                        <option value="Himanchal pradesh">Haryana</option>
+                        <option value="Jammu and Kashmir">Jammu and kashmir</option>
+                        <option value="Jharkhand">Jharkhand</option>
+                        <option value="Karnatak">Karnatak</option>
+                        <option value="Kerla">Kerla</option>
+                        <option value="Laddakh">Laddakh</option>
+                        <option value="Laksdeep">Lakshdeep</option>
+                        <option value="Madhya Pradesh">Madhya Pradesh</option>
+                        <option value="Maharasta">Maharasta</option>
+                        <option value="Manipur">Manipur</option>
+                        <option value="Meghalaya ">Meghalaya </option>
+                        <option value="Mizoram">Mizoram</option>
+                        <option value="Nagaland">Nagaland</option>
+                        <option value="Orisa">Orisa</option>
+                        <option value="Punjab">Punjab</option>
+                        <option value="Puducherry">Puducherry</option>
+                        <option value="Rajasthan">Rajasthan</option>
+                        <option value="Sikkim">Sikkim</option>
+                        <option value="Tamil Nadu">Tamil Nadu</option>
+                        <option value="Telangana">Telangana</option>
+                        <option value="Tripua">Tripua</option>
+                        <option value="Uttarpadesh">Uttarpadesh</option>
+                        <option value="Uttarakahand">Uttarakahand</option>
+                        <option value="West Bengal">West Bengal</option>
+                    </select>
+                </div><br>
+                <div>
+                    Are you Stand with Government in war against China:&nbsp;&nbsp; <br>
+                    <label for="yes">Yes</label>
+                    <input type="radio"name="mystand"id="yes">
+                    <label for="no">No</label>
+                    <input type="radio" name="mystand"id="no">
+                </div><br>
+                
+                <div>
+                    Are you agree that effect of corona virus on country is relatively less than other countries like America, Itlay:&nbsp;&nbsp; <br>
+                    <label for="corona"> Yes </label>
+                    <input type="radio"name="disease"id="corona">
+                    <label for="virus">No</label>
+                    <input type="radio" name="disease"id="virus">
+                </div><br>
+                <div>
+                    Are  you agree that this achievement is obtain due to government practises:<br>
+                    <label for="achievement">Yes</label>
+                    <input type="radio"name="governmentach"id="achievement">
+                    <label for="nachievement">No</label>
+                    <input type="radio"name="governmentach"id="nachievement">
+                </div><br>
+                <div>
+                    Are you agree that country is safe in hand of Modi Ji:<br>
+                    <label for="ysafety"> Yes</label>
+                    <input type="radio"name="safeindia"id="ysafety">
+                    <label for="nsafety">No</label>
+                    <input type="radio"name="safeindia"id="nsafety">
+                </div><br>
+                <div>
+                    Politics of Congress is harmful for country:<br>
+                    <label for="ycongress">Yes</label>
+                    <input type="radio"name="politics"id="ycongress">
+                    <label for="ncongress">No</label>
+                    <input type="radio"name="politics"id="ncongress">
+                </div><br>
+                <div>
+                    <span id="submitted"><label for="submit"></label>
+                    <input style="box-shadow: black;font-size: x-large;color:black;background-color: rgb(182, 228, 135);cursor: pointer;" type="submit"value="submit Now"id="submit"></span>
+                    <label for="reset"></label>
+                    <input style="font-size: x-large;color: black;background-color: rgb(230, 165, 165);cursor:pointer;" type="reset"value="reset Now"id="reset">
+                
+                </div><br>
+                Made by:<br>Shivansh Bajpai<br>Electronics and communication engineering 1st year
+                
+                </form>
+            </div>
+            
+        </div>
+        </div>
+</body>
+</html>

@@ -1,0 +1,280 @@
+@media(min-width:992px){
+    
+    .heading{
+        height:300px;
+    }  
+    .nameheading{
+        font-size: 50px;
+    }
+    .name{
+        font-size: 25px;
+    }
+    #img17{
+        width:50%;
+        height:300px;
+         margin-left: 23%;
+     }
+     .imgmodi17{
+        width:40%;
+        height:350px;
+         margin-left: 23%;
+     }
+     .imgmodi2017{
+        width:40%;
+        height:500px;
+         margin-left: 23%;
+     }
+     .survey{
+        width: 40%;
+        font-size: 53px;
+        height: 80px;
+    }
+    .introduction{
+        float: left;
+        margin-bottom: 15px;
+        font-size: 16px;
+        font-weight: bolder;
+    }
+    #intro{
+        width: 15%;
+        margin-right: 5px;
+        height: 60px;
+        font-size: 16px;
+    }
+    #enterbjp{
+        width: 14%;
+        height: 60px;
+        margin-right: 5px;
+        font-size: 16px;
+    }
+    #worksofgov{
+        width: 25%;
+        height: 60px;
+        margin-right: 10px;
+    }
+    #worksofgov20{
+        width: 25%;
+        height: 60px;
+        margin-right: 5px;
+    }
+    #qualitiesofch{
+        height: 60px;
+        width: 18%;
+    }
+    #introheading17{
+    margin-top: 80px;
+    }
+}
+@media(min-width:756px) and (max-width:991px)
+{
+.heading{
+   height:350px;
+}
+.nameheading{
+    font-size: 50px;
+}
+.governmentlogo{
+   width:20%;
+    height: 50px;
+    margin-right: 25px;
+}
+#img17{
+    width:70%;
+    height:250px;
+     margin-left: 15%;
+ }
+ .imgmodi17{
+    width:70%;
+    height:250px;
+     margin-left: 15%;
+ }
+ .imgmodi2017{
+    width:60%;
+    height:300px;
+     margin-left: 15%;
+}
+.survey{
+    width: 40%;
+    font-size: 39px;
+    height: 70px;
+}
+.introduction{
+    float: left;
+    margin-bottom: 15px;
+    font-size: 15px;
+    font-weight: bolder;
+}
+#intro{
+    width: 19%;
+    margin-right: 5px;
+    height: 60px;
+}
+#enterbjp{
+    width: 29%;
+    height: 60px;
+    margin-right: 5px;
+}
+#worksofgov{
+    width: 49%;
+    height: 60px;
+    margin-right: 10px;
+}
+#worksofgov20{
+    width: 49%;
+    height: 60px;
+    margin-right: 5px;
+}
+#qualitiesofch{
+    height: 60px;
+    width: 49%;
+}
+#introheading17{
+    margin-top: 150px;
+}
+}
+@media(min-width:515px) and (max-width:755px){
+    .heading{
+        height: 400px;
+    }
+    .nameheading{
+        font-size: 50px;
+    }
+    #img17{
+        width:70%;
+        height:200px;
+         margin-left: 14%;
+     }
+     .imgmodi17{
+        width:70%;
+        height:200px;
+         margin-left: 14%;
+     }
+     .imgmodi2017{
+        width:60%;
+        height:200px;
+         margin-left: 14%;
+     }
+     #introheading17{
+        margin-top: 280px;
+    }
+    .survey{
+        width: 40%;
+        font-size: 26px;
+        height: 60px;
+    }
+    .introduction{
+        float: left;
+        margin-bottom: 15px;
+        font-size: 15px;
+        font-weight: bolder;
+    }
+    #intro{
+        width: 39%;
+        margin-right: 10px;
+        height: 50px;
+    }
+    #enterbjp{
+        width: 59%;
+        height: 50px;
+    }
+    #worksofgov{
+        width: 49%;
+        height: 60px;
+        margin-right: 10px;
+    }
+    #worksofgov20{
+        width: 48%;
+        height: 60px;
+    }
+    #qualitiesofch{
+        height: 60px;
+        width: 70%;
+    }  
+}
+@media(max-width:514px) and (min-width:361px){
+    .nameheading{
+        font-size: 50px;
+    }
+    #img17{
+        width:80%;
+        height:200px;
+         margin-left: 9%;
+     }
+     .imgmodi17{
+        width:80%;
+        height:200px;
+         margin-left: 9%;
+     }
+     .imgmodi2017{
+        width:80%;
+        height:200px;
+         margin-left: 9%;
+     }
+     #introheading17{
+         margin-top: 280px;
+     }
+     .survey{
+        width: 40%;
+        font-size: 20px;
+        height: 50px;
+    }
+    .introduction{
+        float: left;
+        margin-bottom: 15px;
+        font-size: 15px;
+        font-weight: bolder;
+    }
+    #intro{
+        width: 39%;
+        margin-right: 5px;
+        height: 50px;
+    }
+    #enterbjp{
+        width: 59%;
+        height: 50px;
+    }
+    #worksofgov{
+        width: 70%;
+        height: 60px;
+    }
+    #worksofgov20{
+        width: 70%;
+        height: 60px;
+    }
+    #qualitiesofch{
+        height: 60px;
+        width: 70%;
+    }
+}
+@media(max-width:360px){
+    .nameheading{
+        font-size: 35px;
+    }
+    #img17{
+       width:80%;
+       height:200px;
+        margin-left: 9%;
+    }
+    .imgmodi17{
+        width:80%;
+        height:200px;
+         margin-left: 9%;
+     }
+     .imgmodi2017{
+        width:80%;
+        height:200px;
+         margin-left: 9%;
+     }
+     .survey{
+        width: 30%;
+        font-size: 16px;
+    }
+    .introduction{
+        width: 100%;
+        margin-top: 10px;
+        font-size: 15px;
+        height: 50px;
+        font-weight: bolder;
+    }
+    
+    }

@@ -1,0 +1,51 @@
+@media(min-width:992px){
+    
+    .heading{
+        height:300px;
+    }  
+    .nameheading{
+        font-size: 50px;
+    }
+    .name{
+        font-size: 25px;
+    }
+}
+@media(min-width:756px) and (max-width:991px)
+{
+.heading{
+   height:350px;
+  
+}
+.nameheading{
+    font-size: 50px;
+}
+.governmentlogo{
+   width:20%;
+    height: 50px;
+    margin-right: 25px;
+}
+}
+@media(min-width:515px) and (max-width:755px){
+    .heading{
+        height: 400px;
+    }
+    .nameheading{
+        font-size: 50px;
+    }
+    #content16{
+        margin-top: 70px;
+    }
+}
+@media(max-width:514px) and (min-width:361px){
+    .nameheading{
+        font-size: 50px;
+    }
+    #content16{
+        margin-top: 70px;
+    }
+}
+@media(max-width:360px){
+    .nameheading{
+        font-size: 35px;
+    }
+}
