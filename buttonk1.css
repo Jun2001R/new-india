@@ -4,7 +4,7 @@
     width: 450px;
 margin-bottom: 10px; */
 font-size: 35px;
-    border: 2px solid rgb(216, 228, 108);
+    
     /* float: left; */
     font-weight: bolder;
     margin-top: 80px;
@@ -12,7 +12,7 @@ font-size: 35px;
     text-align: center;
     width: fit-content;
     color: purple;
-    background-color: rgb(216, 228, 108);
+    
 
 }
 #intro, #enterbjp, #worksofgov, #worksofgov20, #qualitiesofch{
