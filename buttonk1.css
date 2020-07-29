@@ -1,0 +1,66 @@
+
+#indexh{
+    /* height: 80px;
+    width: 450px;
+margin-bottom: 10px; */
+font-size: 35px;
+    border: 2px solid rgb(216, 228, 108);
+    /* float: left; */
+    font-weight: bolder;
+    margin-top: 20px;
+    padding-left: 10px;
+    text-align: center;
+    width: fit-content;
+    color: purple;
+    background-color: rgb(216, 228, 108);
+
+}
+#intro, #enterbjp, #worksofgov, #worksofgov20, #qualitiesofch{
+    /* border: 2px solid red; */
+        /* margin-left: 6px; */
+        border-radius: 20px;
+}
+
+
+
+
+#intro{
+    background-color: rgb(240, 135, 121);
+    /* font-size: 15px; */
+}
+#enterbjp{
+    /* font-size: 18px; */
+    background-color: rgb(157, 212, 219);
+}
+#worksofgov{
+    /* font-size: 18px; */
+    background-color: rgb(228, 157, 220);
+    /* width: 300px; */
+}
+#worksofgov20{
+    /* font-size: 18px; */
+background-color: rgb(153, 233, 153);
+/* width: 300px; */
+}
+#qualitiesofch{
+    /* font-size: 18px; */
+    background-color: rgb(230, 230, 65);
+    /* width: 280px; */
+}
+.contentmatter{
+    margin-top: 80px;
+}
+.survey{
+    /* width: 40%; */
+    /* height: 60px; */
+    /* font-size: 20px; */
+    margin-top: 20px;
+    background-color:rgb(123, 123, 219);
+   border-radius: 20px;
+   color: black;
+  
+    /* font-size: 100%; */
+  } 
+   
+
+ 

@@ -1,0 +1,267 @@
+@media(min-width:992px){
+    
+    .heading{
+        height:300px;
+    }  
+    .nameheading{
+        font-size: 100px;
+        margin-right: 15px;
+    }
+    .name{
+        font-size: 25px;
+    }
+    .introduction{
+        float: left;
+        margin-bottom: 15px;
+        font-size: 16px;
+        font-weight: bolder;
+    }
+    #intro{
+        width: 15%;
+        margin-right: 5px;
+        height: 60px;
+        font-size: 16px;
+    }
+    #enterbjp{
+        width: 14%;
+        height: 60px;
+        margin-right: 5px;
+        font-size: 16px;
+    }
+    #worksofgov{
+        width: 25%;
+        height: 60px;
+        margin-right: 10px;
+    }
+    #worksofgov20{
+        width: 25%;
+        height: 60px;
+        margin-right: 5px;
+    }
+    #qualitiesofch{
+        height: 60px;
+        width: 18%;
+    }
+    .survey{
+        width: 40%;
+        font-size: 53px;
+        height: 80px;
+    }
+    #contentk2{
+        margin-top: 80px;
+    }
+    .imgk200{
+        width:40%;
+        height:350px;
+         margin-left: 23%;
+    }
+}
+@media(min-width:756px) and (max-width:991px)
+{
+.heading{
+   height:350px;
+  
+}
+.nameheading{
+    font-size: 70px;
+    margin-right: 15px;
+}
+.governmentlogo{
+   width:20%;
+    height: 50px;
+    margin-right: 25px;
+}
+.introduction{
+    float: left;
+    margin-bottom: 15px;
+    font-size: 15px;
+    font-weight: bolder;
+}
+#intro{
+    width: 19%;
+    margin-right: 5px;
+    height: 60px;
+}
+#enterbjp{
+    width: 29%;
+    height: 60px;
+    margin-right: 5px;
+}
+#worksofgov{
+    width: 49%;
+    height: 60px;
+    margin-right: 10px;
+}
+#worksofgov20{
+    width: 49%;
+    height: 60px;
+    margin-right: 5px;
+}
+#qualitiesofch{
+    height: 60px;
+    width: 49%;
+}
+.survey{
+    width: 40%;
+    font-size: 39px;
+    height: 70px;
+}
+#contentk2{
+    margin-top: 150px;
+}
+.imgk200{
+    width:70%;
+    height:250px;
+     margin-left: 15%;
+}
+}
+@media(min-width:515px) and (max-width:755px){
+    .heading{
+        height: 400px;
+    }
+    .nameheading{
+        font-size: 50px;
+       margin-right: 5px;
+    }
+    .introduction{
+        float: left;
+        margin-bottom: 15px;
+        font-size: 15px;
+        font-weight: bolder;
+    }
+    #intro{
+        width: 39%;
+        margin-right: 10px;
+        height: 50px;
+    }
+    #enterbjp{
+        width: 59%;
+        height: 50px;
+    }
+    #worksofgov{
+        width: 49%;
+        height: 60px;
+        margin-right: 10px;
+    }
+    #worksofgov20{
+        width: 48%;
+        height: 60px;
+    }
+    #qualitiesofch{
+        height: 60px;
+        width: 70%;
+    }
+    .survey{
+        width: 40%;
+        font-size: 26px;
+        height: 60px;
+    }
+    #contentk2{
+        margin-top: 280px;
+    }
+    .imgk200{
+        width:70%;
+        height:200px;
+         margin-left: 14%;
+     }
+}
+@media(max-width:514px) and (min-width:361px){
+    .nameheading{
+        font-size: 50px;
+
+    }
+    .introduction{
+        float: left;
+        margin-bottom: 15px;
+        font-size: 15px;
+        font-weight: bolder;
+    }
+    #intro{
+        width: 39%;
+        margin-right: 5px;
+        height: 50px;
+    }
+    #enterbjp{
+        width: 59%;
+        height: 50px;
+    }
+    #worksofgov{
+        width: 70%;
+        height: 60px;
+    }
+    #worksofgov20{
+        width: 70%;
+        height: 60px;
+    }
+    #qualitiesofch{
+        height: 60px;
+        width: 70%;
+    }
+    .survey{
+        width: 40%;
+        font-size: 20px;
+        height: 50px;
+    }
+    #contentk2{
+        margin-top: 280px;
+    }
+    .imgk200{
+        width:80%;
+        height:200px;
+         margin-left: 9%;
+     }
+}
+@media(max-width:360px) and (min-width:320px){
+    .nameheading{
+        font-size: 35px;
+    }
+    .introduction{
+        width: 100%;
+        margin-top: 10px;
+        font-size: 10px;
+        height: 50px;
+        font-weight: bolder;
+    }
+    .survey{
+        width: 30%;
+        font-size: 16px;
+    }
+    #contentk2{
+        margin-top: 10px;
+    }
+    .imgk200{
+        width:80%;
+        height:200px;
+         margin-left: 9%;
+     }
+}
+@media(max-width:319px)
+{
+    .nameheading{
+        font-size: 35px;
+        margin-right: 10px;
+    }
+    .governmentlogo{
+        margin-left: 30px;
+        margin-right: 20px;
+    }
+    .introduction{
+        width: 100%;
+        margin-top: 10px;
+        font-size: 10px;
+        height: 50px;
+        font-weight: bolder;
+    }
+    .survey{
+        width: 30%;
+        font-size: 16px;
+    }
+    #contentk2{
+        margin-top: 10px;
+    }
+    .imgk200{
+        width:80%;
+        height:200px;
+         margin-left: 9%;
+     }
+}
