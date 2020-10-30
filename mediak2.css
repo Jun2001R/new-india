@@ -168,7 +168,7 @@
 @media(max-width:514px) and (min-width:361px){
     .nameheading{
         font-size: 50px;
-
+margin-left: 27px;
     }
     .introduction{
         float: left;
@@ -210,10 +210,16 @@
         height:200px;
          margin-left: 9%;
      }
+     .governmentlogo{
+         display: none;
+     }
+     
 }
 @media(max-width:360px) and (min-width:320px){
     .nameheading{
-        font-size: 35px;
+        font-size: 50px;
+        margin-left: 15px;
+        text-align: center;
     }
     .introduction{
         width: 100%;
@@ -234,16 +240,21 @@
         height:200px;
          margin-left: 9%;
      }
+     .governmentlogo{
+         display: none;
+     }
+     
 }
 @media(max-width:319px)
 {
     .nameheading{
-        font-size: 35px;
-        margin-right: 10px;
+        font-size: 50px;
+        
     }
     .governmentlogo{
         margin-left: 30px;
         margin-right: 20px;
+       display: none;
     }
     .introduction{
         width: 100%;
