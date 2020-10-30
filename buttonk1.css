@@ -1,10 +1,11 @@
 
+
 #indexh{
     /* height: 80px;
     width: 450px;
 margin-bottom: 10px; */
 font-size: 35px;
-    
+    /* border: 2px solid rgb(216, 228, 108); */
     /* float: left; */
     font-weight: bolder;
     margin-top: 80px;
@@ -12,14 +13,16 @@ font-size: 35px;
     text-align: center;
     width: fit-content;
     color: purple;
-    
+    /* background-color: rgb(216, 228, 108); */
 
 }
 #intro, #enterbjp, #worksofgov, #worksofgov20, #qualitiesofch{
     /* border: 2px solid red; */
         /* margin-left: 6px; */
         border-radius: 20px;
+        
 }
+
 
 
 
@@ -27,25 +30,250 @@ font-size: 35px;
 #intro{
     background-color: rgb(240, 135, 121);
     /* font-size: 15px; */
+    @keyframes kishu1 {
+        0% {
+            color: rgb(126, 247, 4);
+
+        }
+
+        10% {
+            color: rgb(240, 8, 228);
+            font-size: 30px;
+        }
+
+        20% {
+            color: deepskyblue;
+            font-size: 31px;
+        }
+
+        30% {
+            color: rgb(255, 123, 0);
+            font-size: 32px;
+        }
+
+        40% {
+            color: rgb(17, 0, 255);
+            font-size: 33px;
+        }
+
+        50% {
+            color: rgb(130, 128, 0);
+            font-size: 34px;
+        }
+
+        60% {
+            color: rgb(253, 0, 0);
+            font-size: 35px;
+        }
+
+        70% {
+            color: rgb(21, 199, 101);
+            font-size: 36px;
+        }
+
+        80% {
+            color: rgb(202, 230, 216);
+            font-size: 37px;
+        }
+
+        90% {
+            color: rgb(163, 8, 235);
+            font-size: 38px;
+        }
+
+        100% {
+            color: rgb(245, 2, 2);
+            font-size: 39px;
+        }
+    }
 }
 #enterbjp{
     /* font-size: 18px; */
     background-color: rgb(157, 212, 219);
+    @keyframes kishu1 {
+        0% {
+            color: rgb(126, 247, 4);
+
+        }
+
+        10% {
+            color: rgb(240, 8, 228);
+            font-size: 30px;
+        }
+
+        20% {
+            color: deepskyblue;
+            font-size: 31px;
+        }
+
+        30% {
+            color: rgb(255, 123, 0);
+            font-size: 32px;
+        }
+
+        40% {
+            color: rgb(17, 0, 255);
+            font-size: 33px;
+        }
+
+        50% {
+            color: rgb(130, 128, 0);
+            font-size: 34px;
+        }
+
+        60% {
+            color: rgb(253, 0, 0);
+            font-size: 35px;
+        }
+
+        70% {
+            color: rgb(21, 199, 101);
+            font-size: 36px;
+        }
+
+        80% {
+            color: rgb(202, 230, 216);
+            font-size: 37px;
+        }
+
+        90% {
+            color: rgb(163, 8, 235);
+            font-size: 38px;
+        }
+
+        100% {
+            color: rgb(245, 2, 2);
+            font-size: 39px;
+        }
+    }
 }
 #worksofgov{
     /* font-size: 18px; */
     background-color: rgb(228, 157, 220);
     /* width: 300px; */
+   
 }
 #worksofgov20{
     /* font-size: 18px; */
 background-color: rgb(153, 233, 153);
 /* width: 300px; */
+@keyframes kishu1 {
+    0% {
+        color: rgb(126, 247, 4);
+
+    }
+
+    10% {
+        color: rgb(240, 8, 228);
+        font-size: 30px;
+    }
+
+    20% {
+        color: deepskyblue;
+        font-size: 31px;
+    }
+
+    30% {
+        color: rgb(255, 123, 0);
+        font-size: 32px;
+    }
+
+    40% {
+        color: rgb(17, 0, 255);
+        font-size: 33px;
+    }
+
+    50% {
+        color: rgb(130, 128, 0);
+        font-size: 34px;
+    }
+
+    60% {
+        color: rgb(253, 0, 0);
+        font-size: 35px;
+    }
+
+    70% {
+        color: rgb(21, 199, 101);
+        font-size: 36px;
+    }
+
+    80% {
+        color: rgb(202, 230, 216);
+        font-size: 37px;
+    }
+
+    90% {
+        color: rgb(163, 8, 235);
+        font-size: 38px;
+    }
+
+    100% {
+        color: rgb(245, 2, 2);
+        font-size: 39px;
+    }
+}
 }
 #qualitiesofch{
     /* font-size: 18px; */
     background-color: rgb(230, 230, 65);
     /* width: 280px; */
+    @keyframes kishu1 {
+        0% {
+            color: rgb(126, 247, 4);
+
+        }
+
+        10% {
+            color: rgb(240, 8, 228);
+            font-size: 30px;
+        }
+
+        20% {
+            color: deepskyblue;
+            font-size: 31px;
+        }
+
+        30% {
+            color: rgb(255, 123, 0);
+            font-size: 32px;
+        }
+
+        40% {
+            color: rgb(17, 0, 255);
+            font-size: 33px;
+        }
+
+        50% {
+            color: rgb(130, 128, 0);
+            font-size: 34px;
+        }
+
+        60% {
+            color: rgb(253, 0, 0);
+            font-size: 35px;
+        }
+
+        70% {
+            color: rgb(21, 199, 101);
+            font-size: 36px;
+        }
+
+        80% {
+            color: rgb(202, 230, 216);
+            font-size: 37px;
+        }
+
+        90% {
+            color: rgb(163, 8, 235);
+            font-size: 38px;
+        }
+
+        100% {
+            color: rgb(245, 2, 2);
+            font-size: 39px;
+        }
+    }
 }
 .contentmatter{
     margin-top: 80px;
