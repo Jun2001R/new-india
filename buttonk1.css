@@ -20,7 +20,8 @@ font-size: 35px;
     /* border: 2px solid red; */
         /* margin-left: 6px; */
         border-radius: 20px;
-        
+        color: white;
+        border: 2px solid white; 
 }
 
 
